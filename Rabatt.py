@@ -1,0 +1,1 @@
+print(f"Endpreis: {round(float(input()) * 0.97, 2)} Euro.")
